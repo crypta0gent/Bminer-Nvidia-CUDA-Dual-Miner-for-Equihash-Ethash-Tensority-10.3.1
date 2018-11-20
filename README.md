@@ -1,0 +1,1 @@
+# Bminer-Nvidia-CUDA-Dual-Miner-for-Equihash-Ethash-Tensority-10.3.1
