@@ -12,15 +12,4 @@ The latest version release (10.3.1) includes the following optimizations , featu
 
 For official direct download for Linux and Windows in ZIP package use the links below.
 
-ю                   
-ю     ааа
-ю                    
-ю       а     аааа
-ю           а
-ю аа
-ю                   
-ю
-ю
-ю
-ю
-ю
+не хватает ссылки .................................
