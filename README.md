@@ -1,4 +1,4 @@
-Bminer Nvidia CUDA Dual Miner for Equihash / Ethash / Tensority 10.3.1 (Linux/Windows)
+Bminer Nvidia CUDA Dual Miner for Equihash / Ethash / Tensority 10.3.1 (Windows)
 
 Bminer is a high multi algo optimized miner designed to work on NVIDIA GPUs ( Maxwell and Pascal architectures with compute capability 5.0 and higher ). The optimization is due a completely restructured algorithm to maximize the stream processor occupancy and the instruction pipeline efficiency, unlocking full power from Pascal based GPUs. Currently Bminer supports Equihash based coins, Ethash based coins, Dual Mining using Ethash based coins as primary algo and Tensority based coins ( Bytom - BTM ).
 
